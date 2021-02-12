@@ -1,8 +1,8 @@
 .EG{
     position: absolute;
     color: #A9DFBF;
-          top: 140%;
-      left: 20%;
+          top: 155%;
+      left: 19%;
         font-family: KG A Little Spark;
     background: transparent;
     border: none;
@@ -24,8 +24,8 @@
 .E9{
     position: absolute;
     color: #A9DFBF;
-          top: 270%;
-      left: 87%;
+          top: 200%;
+      left: 70%;
         font-family: KG A Little Spark;
     background: transparent;
     border: none;
@@ -46,8 +46,8 @@
 .E8{
     position: absolute;
     color: #A9DFBF;
-          top: 410%;
-      left: 20%;
+          top: 450%;
+      left: 16%;
         font-family: KG A Little Spark;
     background: transparent;
     border: none;
@@ -189,7 +189,7 @@
 width:105%;
 height: 200%;
 position: absolute;
-top: 335%;
+top: 315%;
 left: 110%;
 }
 .NEO:hover{
@@ -203,7 +203,7 @@ left: 110%;
 width:90%;
 height:200%;
 position: absolute;
-top: 550%;
+top: 540%;
 left: 110%;
 }
 
@@ -260,7 +260,7 @@ left: 110%;
 .sx{
     position: absolute;
     top: 420px;
-    left: -900%;
+    left: -970%;
      width: 750px; 
      height:400px; 
      border: 2px solid #000000;
@@ -312,8 +312,8 @@ border: 1px solid #000000;
      width: 550px; 
      height: 200px; 
      position: absolute;
-     top:-250%; 
-     left:-95%;
+     top:-220%; 
+     left:-85%;
 }
 .bg:hover{
     background-color: #EDCCC1
@@ -426,8 +426,8 @@ border: 1px solid #000000;
      width: 700px; 
      height: 100px; 
      position: absolute;
-     top:65%; 
-     left:45%;
+     top:60%; 
+     left:42%;
 }
 .km:hover{
 	background-color: #EDCCC1
@@ -450,8 +450,8 @@ border: 1px solid #000000;
   
   transition: background-color .5s;
   color: black;
-	left: 12%;
-	top:-25%;
+	left: 5%;
+	top:-30%;
 	font-family:good people;
 	font-size:130px;
 	position: absolute;
@@ -487,8 +487,8 @@ border: 1px solid #000000;
 
 .jimme {
 	position: absolute;
-	top: 420px;
-	left: 10%;
+	top: 400px;
+	left: 3%;
      width: 450px; 
      height:570px; 
      border: 2px solid #000000;
@@ -599,5 +599,5 @@ position: absolute;
      background: #F6DB6C;
      position: absolute;
      top:360%; 
-     left:9%;
+     left:5%;
 }
